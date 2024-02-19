@@ -9,9 +9,14 @@ Author Name
 [.float-group]
 --
 image:multirepo-ssg.svg[Multirepo SSG,180,135,float=right,role=float-gap]
-Platonem complectitur mediocritatem ea eos.
-Ei nonumy deseruisse ius.
-Mel id omnes verear.
+I don't like latin!
+
+I don't like latin!
+
+I don't like latin!
+
+I don't like latin!
+
 Vis no velit audiam, sonet <<dependencies,praesent>> eum ne.
 *Prompta eripuit* nec ad.
 Integer diam enim, dignissim eget eros et, ultricies mattis odio.
