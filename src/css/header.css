@@ -19,6 +19,9 @@ body {
   z-index: var(--z-index-navbar);
 }
 
+.background-header{
+  width: 100%;
+}
 .navbar a {
   text-decoration: none;
 }
