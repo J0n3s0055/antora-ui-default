@@ -19,7 +19,7 @@ body {
   z-index: var(--z-index-navbar);
 }
 
-.background-header{
+.background-header {
   width: 100%;
 }
 .navbar a {
