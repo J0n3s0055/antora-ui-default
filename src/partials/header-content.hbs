@@ -1,7 +1,9 @@
 <header class="header">
   <nav class="navbar">
     <div class="navbar-brand">
-      <img class="navbar-logo" src="{{{site.logo}}}" alt="{{site.title}}">
+      <div class="navbar_logo">
+        <img class="header_img" src="./src/img/logo.jpg" alt="Site Logo">
+      </div>
       <a class="navbar-item" href="{{{or site.url siteRootPath}}}">{{site.title}}</a>
       {{#if env.SITE_SEARCH_PROVIDER}}
       <!--<div class="navbar-item search hide-for-print">
