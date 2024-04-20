@@ -1,6 +1,6 @@
 footer.footer {
   background-color: var(--footer-background);
-  color: var(--important-on-color); /*var(--footer-font-color);*/
+  color: var(--important-on-color);
   font-size: calc(15 / var(--rem-base) * 2rem);
   line-height: var(--footer-line-height);
   padding: 1.5rem;
