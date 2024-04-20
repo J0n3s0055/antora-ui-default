@@ -27,6 +27,7 @@ body {
   height: 100%;
   margin-left: 0.5rem;
 }
+
 .navbar-brand {
   display: flex;
   flex: auto;
